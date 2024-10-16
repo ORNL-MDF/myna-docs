@@ -1,0 +1,47 @@
+# General site settings
+title: Myna
+description: Documentation for Myna
+repository: ORNL-MDF/myna.github.io
+
+# Theme settings
+permalink: /:title
+theme: just-the-docs
+compress_html:
+  blanklines: true
+color_scheme: ornl_green
+
+# Navigation bar
+nav_enabled: true
+nav_external_links:
+  - title: Myna on GitHub
+    url: "https://github.com/ORNL-MDF/Myna"
+
+# Upper-right link bar
+aux_links:
+  Myna on GitHub:
+    - "https://github.com/ORNL-MDF/Myna"
+
+# Link settings
+aux_links_new_tab: false
+
+# Enable callouts in markdown, for example "{: .warning }"
+callouts:
+  highlight:
+    color: yellow
+  important:
+    title: Important
+    color: blue
+  new:
+    title: New
+    color: green
+  note:
+    title: Note
+    color: ornl_green
+  warning:
+    title: Warning
+    color: red
+
+# Update custom style assets
+assets:
+  stylesheets:
+    - /assets/css/custom.css
