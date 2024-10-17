@@ -2,8 +2,6 @@
 title: Myna
 description: Documentation for Myna
 repository: ORNL-MDF/myna.github.io
-url: https://ornl-mdf.github.io
-baseurl: myna/
 
 # Theme settings
 permalink: /:title
