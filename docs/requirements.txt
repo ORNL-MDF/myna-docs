@@ -1,0 +1,4 @@
+sphinx == 8.2.0
+sphinx-rtd-theme == 3.0.2
+myst-parser == 4.0.1
+myna @ git+https://github.com/ORNL-MDF/Myna.git
